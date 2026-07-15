@@ -1,1 +1,10 @@
-1,M.Sreenivasulu,95
+1,M.Ramaiah,85
+2,M.Rathnamma,80
+3,M.Papaiah,58
+4,M.Rathnamma,52
+5,M.RadhaKrishna,50
+6,M.Santhamma,45
+7,M.Venkatramana,27
+8,M.Sreenivasulu,25
+9,M.VenkatSai,20
+10,M.Poojithe,18
