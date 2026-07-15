@@ -1,2 +1,2 @@
-# Student-Management-System
+# StudentManagementSystem
 Python Student Management System
